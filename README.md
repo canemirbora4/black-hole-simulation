@@ -46,9 +46,6 @@ A physically-inspired **Intermediate Mass Black Hole (IMBH)** simulator and real
 ## Setup & Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
 2. Open **Processing 4**.
 3. Double-click `GargantuaProcessing.pde` — Processing will load all `.pde` tabs (FluidSim, RayTracer, PostProcess, Utils, Vec3) automatically.
 4. Press **Run** (▶).
